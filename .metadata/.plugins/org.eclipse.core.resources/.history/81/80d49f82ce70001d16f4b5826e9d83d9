@@ -1,0 +1,15 @@
+package com.myshop.web.controller.admin;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+@Controller
+public class NoticeController {
+	@RequestMapping()
+	public String list() {
+		
+	return "list";	
+	}
+	public String detail() {
+		return "derail";
+	}
+}

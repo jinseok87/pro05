@@ -1,0 +1,8 @@
+package com.myshop.web.controller.custormer;
+
+import org.springframework.stereotype.Controller;
+
+@Controller("adminNoticeContriller")
+public class NoticeController {
+
+}

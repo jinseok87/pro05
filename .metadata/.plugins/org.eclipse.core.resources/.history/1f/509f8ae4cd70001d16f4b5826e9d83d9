@@ -1,0 +1,13 @@
+package com.myshop.web.controller.custormer;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller("adminNoticeContriller")
+public class AdminNoticeController {
+	@RequestMapping("")
+	public String list() {
+		
+		return "list";
+	}
+}
