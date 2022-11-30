@@ -89,9 +89,7 @@
 	<!-- --------------------------- <visual> --------------------------------------- -->
 	<!-- visual 부분 -->
 
-	<div id="visual">
-		<div class="content-container"></div>
-	</div>
+
 	<!-- --------------------------- <body> --------------------------------------- -->
 	<div id="body">
 		<div class="content-container clearfix">

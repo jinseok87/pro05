@@ -10,10 +10,10 @@ public class NoticeController {
 	@RequestMapping("list")
 	public String list(Model model)	{
 		model.addAttribute("test","hello~boot~");
-		return "customer/notice/list";
+		return "customer.notice.list";
 	}
 	@RequestMapping("detail")
 	public String detail() {
-		return "detail";
+		return "customer.notice.detail";
 	}
 }

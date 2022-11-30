@@ -1,0 +1,5 @@
+package com.myshop.web.config;
+
+public class TilesConfig {
+
+}
