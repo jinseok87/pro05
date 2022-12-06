@@ -18,7 +18,7 @@ org.eclipse.jface.textfont=1|D2Coding|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|
 org.eclipse.mylyn.wikitext.ui.presentation.textFont=1|D2Coding|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|49|D2Coding;
 org.eclipse.pde.internal.ui.compare.ManifestContentMergeViewer=1|D2Coding|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|49|D2Coding;
 org.eclipse.pde.internal.ui.compare.PluginContentMergeViewer=1|D2Coding|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|49|D2Coding;
-org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<org.eclipse.ui.commands>\r\n<keyBinding commandId\="org.eclipse.ui.edit.text.contentAssist.proposals" contextId\="org.eclipse.ui.contexts.dialogAndWindow" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="SHIFT+SPACE"/>\r\n<keyBinding contextId\="org.eclipse.ui.contexts.dialogAndWindow" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SPACE"/>\r\n</org.eclipse.ui.commands>
+org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<org.eclipse.ui.commands>\r\n<keyBinding contextId\="org.eclipse.ui.contexts.dialogAndWindow" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SPACE"/>\r\n<keyBinding commandId\="org.eclipse.ui.edit.text.contentAssist.proposals" contextId\="org.eclipse.ui.contexts.dialogAndWindow" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="SHIFT+SPACE"/>\r\n</org.eclipse.ui.commands>
 org.eclipse.ui.r30.ACTIVE_HYPERLINK_COLOR=138,201,242
 org.eclipse.ui.r30.CONFLICTING_COLOR=240,15,66
 org.eclipse.ui.r30.CONTENT_ASSIST_BACKGROUND_COLOR=52,57,61

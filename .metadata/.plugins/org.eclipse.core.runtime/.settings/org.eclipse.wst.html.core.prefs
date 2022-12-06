@@ -1,3 +1,4 @@
 eclipse.preferences.version=1
 inlineElements=select,td
 lineWidth=999
+outputCodeset=UTF-8
